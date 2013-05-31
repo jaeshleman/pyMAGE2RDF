@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/pythonutilities/!svn/ver/43/MAGE/src
+END
+DesignElementDimension.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pythonutilities/!svn/ver/51/MAGE/src/DesignElementDimension.py
+END
+Software.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pythonutilities/!svn/ver/51/MAGE/src/Software.py
+END
+OntologyEntry.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pythonutilities/!svn/ver/51/MAGE/src/OntologyEntry.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pythonutilities/!svn/ver/10/MAGE/src/__init__.py
+END
+MAGE_ML.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/pythonutilities/!svn/ver/51/MAGE/src/MAGE_ML.py
+END
+Protocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pythonutilities/!svn/ver/51/MAGE/src/Protocol.py
+END
+Organization.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pythonutilities/!svn/ver/51/MAGE/src/Organization.py
+END
+Person.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/pythonutilities/!svn/ver/51/MAGE/src/Person.py
+END
+BioEvent.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pythonutilities/!svn/ver/51/MAGE/src/BioEvent.py
+END
+Extendable.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pythonutilities/!svn/ver/51/MAGE/src/Extendable.py
+END
+FactorValue.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pythonutilities/!svn/ver/51/MAGE/src/FactorValue.py
+END
+BibliographicReference.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pythonutilities/!svn/ver/51/MAGE/src/BibliographicReference.py
+END
+ParameterValue.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pythonutilities/!svn/ver/51/MAGE/src/ParameterValue.py
+END
+CompositeSequences.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pythonutilities/!svn/ver/51/MAGE/src/CompositeSequences.py
+END
+Array.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/pythonutilities/!svn/ver/51/MAGE/src/Array.py
+END
+Parameter.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/pythonutilities/!svn/ver/51/MAGE/src/Parameter.py
+END
+Experiment.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pythonutilities/!svn/ver/51/MAGE/src/Experiment.py
+END
+AuditAndSecurity.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pythonutilities/!svn/ver/51/MAGE/src/AuditAndSecurity.py
+END
+BioDataValues.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pythonutilities/!svn/ver/51/MAGE/src/BioDataValues.py
+END
+Description.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pythonutilities/!svn/ver/51/MAGE/src/Description.py
+END
+DesignElement.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pythonutilities/!svn/ver/51/MAGE/src/DesignElement.py
+END
+BioMaterial.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pythonutilities/!svn/ver/51/MAGE/src/BioMaterial.py
+END
+ParameterizableApplication.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pythonutilities/!svn/ver/51/MAGE/src/ParameterizableApplication.py
+END
+Contact.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/pythonutilities/!svn/ver/51/MAGE/src/Contact.py
+END
+Hardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pythonutilities/!svn/ver/51/MAGE/src/Hardware.py
+END
+Describable.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pythonutilities/!svn/ver/51/MAGE/src/Describable.py
+END
+ContainedFeatures.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pythonutilities/!svn/ver/51/MAGE/src/ContainedFeatures.py
+END
+BioAssayData.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pythonutilities/!svn/ver/51/MAGE/src/BioAssayData.py
+END
+Parameterizable.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pythonutilities/!svn/ver/51/MAGE/src/Parameterizable.py
+END
+ArrayDesign.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pythonutilities/!svn/ver/51/MAGE/src/ArrayDesign.py
+END
+BioAssay.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pythonutilities/!svn/ver/51/MAGE/src/BioAssay.py
+END
+SampleData.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pythonutilities/!svn/ver/51/MAGE/src/SampleData.py
+END
+RunMAGE2RDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pythonutilities/!svn/ver/51/MAGE/src/RunMAGE2RDF.py
+END
+Document.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pythonutilities/!svn/ver/51/MAGE/src/Document.py
+END
+Identifiable.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pythonutilities/!svn/ver/51/MAGE/src/Identifiable.py
+END
+NameValueType.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pythonutilities/!svn/ver/51/MAGE/src/NameValueType.py
+END
+QuantitationType.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pythonutilities/!svn/ver/51/MAGE/src/QuantitationType.py
+END
