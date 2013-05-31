@@ -8,3 +8,23 @@ serialized as n-triples or n3 notation files.
 
 This representation does not currently attempt to align the output with 
 any extant ontology for MAGE or other gene expression studies. 
+
+
+DEPENDENCIES:  requires instalation of the rdflib package for python.  
+TESTED with PYTHON ver. 2.7.2
+  
+
+	
+To execute the code, use the script "RunMAGE2RDF"
+
+    Set variable runRoot in the code below.  
+    The runRoot variable should point to an accessible directory that itself 
+    contains the subDirectories "XML_in", "XML_out",RDF_out" and "FailedXMLinfiles"
+    
+    MAGE-ML documents to be converted are placed in the "XML_in" directory.
+    Once converted, the source document will be moved to "XML_out" and 
+    a n3 serialization will be written to "RDF_out".
+    Files that cannot be converted will be moved to "FailedXMLinfiles"
+    
+    
+    
